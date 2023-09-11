@@ -1,0 +1,14 @@
+[
+    {
+        "vendor": "Vendor A",
+        "amount": 500
+    },
+    {
+        "vendor": "Vendor B",
+        "amount": 750
+    },
+    {
+        "vendor": "Vendor C",
+        "amount": 600
+    }
+]
